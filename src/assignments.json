@@ -1,0 +1,44 @@
+{
+  "assignments": [
+    {
+      "id": "5",
+      "title": "Learn React with vite",
+      "subject": "Fullstack",
+      "dueDate": "2025-10-03",
+      "priority": "high",
+      "status": "completed",
+      "estimatedHours": "",
+      "description": "i don't know\n"
+    },
+    {
+      "id": "ea8b",
+      "title": " React js",
+      "subject": "react",
+      "dueDate": "2025-10-11",
+      "priority": "medium",
+      "status": "in-progress",
+      "estimatedHours": "",
+      "description": ", title: 'Learn React with ', subject: 'Fullstack', dueDate: '2025-10-18', priority: 'high', …}"
+    },
+    {
+      "id": "cb4f",
+      "title": "Learn React",
+      "subject": "Fullstack",
+      "dueDate": "2024-08-18",
+      "priority": "high",
+      "status": "completed",
+      "estimatedHours": "",
+      "description": "i don't know\n"
+    },
+    {
+      "id": "e173",
+      "title": "Learn Tailwind css",
+      "subject": "Styles",
+      "dueDate": "2025-10-09",
+      "priority": "low",
+      "status": "in-progress",
+      "estimatedHours": "",
+      "description": "{total: 3, completed: 1, pending: 1, inProgress: 1}\ncompleted\n: \n1\ninProgress\n: \n1\npending\n: \n1\ntotal\n: \n3\n[[Prototype]]\n: \nObject"
+    }
+  ]
+}
